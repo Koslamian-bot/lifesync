@@ -151,4 +151,8 @@ if __name__ == "__main__":
     final_json = finalize_profile(quiz_data, user_narrative)
     
     print("\n✅ PROFILE COMPLETE. SYSTEM-READY OUTPUT:\n")
-    print(json.dumps(final_json, indent=2))
+    # Save to file
+    with open("profile.json", "w") as f:
+        json.dump(final_json, f, indent=2)
+
+        print("\n✅ PROFILE SAVED TO profile.json")

@@ -1,0 +1,38 @@
+DAY 1 (Weekday):
+- 16:00-17:00 → Skill Building: Research & Outline Learning Path for new skill (Deep Work)
+- 21:30-23:00 → Skill Building: Foundational Tutorial & Initial Setup (Coding/Learning)
+
+DAY 2 (Weekend):
+- 09:00-10:30 → Skill Building: Core Concept Deep Dive & Detailed Notes (Learning)
+- 14:00-15:30 → Skill Building: Hands-on Practice Session 1 - Basic Exercises (Coding/Learning)
+- 21:00-22:30 → Skill Building: Watch Advanced Tutorial or Related Lecture (Watching content, Learning)
+
+DAY 3 (Weekend):
+- 08:30-09:30 → Gym / Exercise (Fitness Goal)
+- 10:30-12:00 → Skill Building: Review Week 1 Concepts & Problem Solving Practice (Learning)
+- 21:00-22:30 → Skill Building: Plan Next Week's Modules & Prepare Resources (Deep Work)
+
+DAY 4 (Weekday):
+- 16:00-17:00 → Skill Building: Implement Small Feature or Coding Challenge (Coding/Learning)
+- 21:30-23:00 → Skill Building: Focused Problem Solving & Debugging Practice (Practice)
+
+DAY 5 (Weekday):
+- 16:00-17:00 → Skill Building: Advanced Tutorial 2 & Detailed Notes (Learning)
+- 21:00-22:30 → Skill Building: Work on Mini-Project Component 1 (Coding/Learning)
+
+DAY 6 (Weekday):
+- 16:00-17:00 → Skill Building: Refactoring & Code Optimization Practice (Coding/Learning)
+- 21:30-23:00 → Skill Building: Explore Related Libraries or Frameworks (Learning)
+
+DAY 7 (Weekday):
+- 16:00-17:00 → Skill Building: Design Next Phase of Personal Project (Deep Work)
+- 21:00-22:30 → Skill Building: Watch Case Study or Expert Interview (Watching content, Learning)
+
+DAY 8 (Weekday):
+- 16:00-17:00 → Skill Building: Implement Complex Algorithm or Data Structure (Coding/Learning)
+- 21:30-23:00 → Skill Building: Review Week's Progress & Identify Areas for Improvement (Learning)
+
+DAY 9 (Weekend):
+- 09:00-10:30 → Skill Building: Dedicated Project Development Session 1 (Coding/Learning)
+- 14:30-16:00 → Skill Building: Dedicated Project Development Session 2 (Coding/Learning)
+- 21:00-22:30 → Skill Building: Project Review, Testing & Next Steps Planning (Deep Work)

@@ -1,0 +1,33 @@
+{
+  "wake_time": "06:00",
+  "sleep_time": "00:00-01:00",
+  "work_hours": [
+    "06:00-16:00",
+    "17:00-21:00"
+  ],
+  "energy_curve": {
+    "morning": "high",
+    "afternoon": "high",
+    "evening": "high"
+  },
+  "free_slots": [
+    "16:00-17:00",
+    "Late night"
+  ],
+  "habits": [
+    "Gym / Exercise",
+    "Meditation",
+    "Gaming",
+    "Coding / Learning",
+    "Watching content"
+  ],
+  "constraints": [
+    "College",
+    "Family responsibilities"
+  ],
+  "goals": [
+    "Career growth",
+    "Skill building",
+    "Fitness"
+  ]
+}
