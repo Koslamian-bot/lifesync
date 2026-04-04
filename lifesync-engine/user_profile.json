@@ -1,0 +1,104 @@
+{
+    "commute": {
+        "prep_time_mins": 15.0,
+        "travel_time_mins": 60.0
+    },
+    "weekly_schedule": {
+        "monday": {
+            "wake_time": "03:45",
+            "sleep_time": "22:00",
+            "work_start": "08:00",
+            "work_end": "17:00",
+            "free_slots": [
+                "03:45 \u2192 06:45",
+                "18:30 \u2192 22:00"
+            ]
+        },
+        "tuesday": {
+            "wake_time": "03:45",
+            "sleep_time": "22:00",
+            "work_start": "08:00",
+            "work_end": "17:00",
+            "free_slots": [
+                "03:45 \u2192 06:45",
+                "18:30 \u2192 22:00"
+            ]
+        },
+        "wednesday": {
+            "wake_time": "03:45",
+            "sleep_time": "22:00",
+            "work_start": "08:00",
+            "work_end": "17:00",
+            "free_slots": [
+                "03:45 \u2192 06:45",
+                "18:30 \u2192 22:00"
+            ]
+        },
+        "thursday": {
+            "wake_time": "03:45",
+            "sleep_time": "22:00",
+            "work_start": "08:00",
+            "work_end": "17:00",
+            "free_slots": [
+                "03:45 \u2192 06:45",
+                "18:30 \u2192 22:00"
+            ]
+        },
+        "friday": {
+            "wake_time": "03:45",
+            "sleep_time": "22:00",
+            "work_start": "08:00",
+            "work_end": "17:00",
+            "free_slots": [
+                "03:45 \u2192 06:45",
+                "18:30 \u2192 22:00"
+            ]
+        },
+        "saturday": {
+            "wake_time": "08:00",
+            "sleep_time": "22:00",
+            "work_start": "12:00",
+            "work_end": "19:00",
+            "free_slots": [
+                "08:00 \u2192 10:45",
+                "20:30 \u2192 22:00"
+            ]
+        },
+        "sunday": {
+            "wake_time": "08:00",
+            "sleep_time": "22:00",
+            "free_slots": [
+                "08:00 \u2192 22:00"
+            ]
+        }
+    },
+    "goals": [
+        {
+            "name": "getting a good physique by converting the fat into muscle",
+            "weekly_hours": 10.0,
+            "priority": 1
+        },
+        {
+            "name": "learning a new musical instrument",
+            "weekly_hours": 7.0,
+            "priority": 4
+        }
+    ],
+    "hobbies": [
+        {
+            "name": "gardening",
+            "weekly_hours": 3.0,
+            "flexible": true
+        }
+    ],
+    "rigid_blocks": [
+        {
+            "name": "nebuliser",
+            "start_time": "18:00",
+            "end_time": "18:15",
+            "days": [
+                "everyday"
+            ]
+        }
+    ]
+}
