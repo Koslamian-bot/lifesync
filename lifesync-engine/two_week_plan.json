@@ -1,0 +1,1605 @@
+{
+    "plan_title": "Two-Week Fitness & Football Sprint",
+    "sprint_start": "2026-04-14",
+    "sprint_end": "2026-04-27",
+    "milestones": [
+        {
+            "goal_name": "fitness building",
+            "week_1_target": "Complete 7 hours of varied strength and cardio sessions, focusing on proper form.",
+            "week_2_target": "Complete 7 hours of varied strength and cardio sessions, increasing intensity or volume by 10%."
+        },
+        {
+            "goal_name": "getting a six pack",
+            "week_1_target": "Incorporate 7 hours of core-focused exercises and maintain consistent nutrition tracking.",
+            "week_2_target": "Incorporate 7 hours of core-focused exercises, increasing challenge, and refine nutrition for optimal results."
+        }
+    ],
+    "daily_plans": [
+        {
+            "date": "2026-04-14",
+            "day_name": "Tuesday",
+            "week_number": 1,
+            "tasks": [
+                {
+                    "time_start": "06:00",
+                    "time_end": "06:30",
+                    "task_name": "Morning Core Activation",
+                    "category": "fitness",
+                    "goal_ref": "getting a six pack",
+                    "notes": "Starting the day with core work to engage muscles early and improve posture.",
+                    "exercises": [
+                        {
+                            "name": "Plank",
+                            "sets": 3,
+                            "reps": "30-45s hold",
+                            "duration": null,
+                            "notes": "Keep body in a straight line, engage glutes."
+                        },
+                        {
+                            "name": "Dead Bug",
+                            "sets": 3,
+                            "reps": "10-12 per side",
+                            "duration": null,
+                            "notes": "Maintain lower back contact with the floor."
+                        },
+                        {
+                            "name": "Bird-Dog",
+                            "sets": 3,
+                            "reps": "10-12 per side",
+                            "duration": null,
+                            "notes": "Move slowly and with control, avoid rocking."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "18:30",
+                    "time_end": "19:00",
+                    "task_name": "Upper Body Strength: Push Focus",
+                    "category": "fitness",
+                    "goal_ref": "fitness building",
+                    "notes": "Targeting chest, shoulders, and triceps after work to build overall upper body strength.",
+                    "exercises": [
+                        {
+                            "name": "Dumbbell Bench Press",
+                            "sets": 3,
+                            "reps": "8-12",
+                            "duration": null,
+                            "notes": "Control the descent, full range of motion."
+                        },
+                        {
+                            "name": "Overhead Press (Dumbbell)",
+                            "sets": 3,
+                            "reps": "8-12",
+                            "duration": null,
+                            "notes": "Press straight up, avoid arching back."
+                        },
+                        {
+                            "name": "Tricep Dips (Assisted)",
+                            "sets": 3,
+                            "reps": "AMRAP",
+                            "duration": null,
+                            "notes": "Keep elbows tucked in, focus on tricep contraction."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "19:00",
+                    "time_end": "19:30",
+                    "task_name": "Dinner & Prep",
+                    "category": "nutrition",
+                    "goal_ref": null,
+                    "notes": "Preparing a healthy dinner and packing tomorrow's lunch to stay on track with nutrition goals.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "19:30",
+                    "time_end": "20:00",
+                    "task_name": "Active Recovery & Stretching",
+                    "category": "rest",
+                    "goal_ref": null,
+                    "notes": "Light stretching to aid muscle recovery and improve flexibility after the workout.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "20:00",
+                    "time_end": "21:00",
+                    "task_name": "Leisure Reading",
+                    "category": "personal",
+                    "goal_ref": null,
+                    "notes": "Relaxing with a book to unwind and de-stress before bed.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "21:00",
+                    "time_end": "22:00",
+                    "task_name": "Evening Routine & Journaling",
+                    "category": "personal",
+                    "goal_ref": null,
+                    "notes": "Completing evening hygiene and reflecting on the day's progress in a journal.",
+                    "exercises": null,
+                    "practice": null
+                }
+            ],
+            "day_summary": "A strong start to the week with focused core and upper body work, setting a positive tone for fitness."
+        },
+        {
+            "date": "2026-04-15",
+            "day_name": "Wednesday",
+            "week_number": 1,
+            "tasks": [
+                {
+                    "time_start": "06:00",
+                    "time_end": "06:30",
+                    "task_name": "Morning Cardio: Light Jog",
+                    "category": "fitness",
+                    "goal_ref": "fitness building",
+                    "notes": "A quick cardio session to boost metabolism and energy levels before work.",
+                    "exercises": [
+                        {
+                            "name": "Light Jog",
+                            "sets": null,
+                            "reps": null,
+                            "duration": "30 min at light pace",
+                            "notes": "Focus on consistent breathing and a comfortable pace."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "18:30",
+                    "time_end": "19:00",
+                    "task_name": "Lower Body Strength: Quad Focus",
+                    "category": "fitness",
+                    "goal_ref": "fitness building",
+                    "notes": "Targeting the quadriceps with foundational exercises to build leg strength.",
+                    "exercises": [
+                        {
+                            "name": "Leg Press",
+                            "sets": 3,
+                            "reps": "10-15",
+                            "duration": null,
+                            "notes": "Keep knees aligned with toes, control the movement."
+                        },
+                        {
+                            "name": "Leg Extension",
+                            "sets": 3,
+                            "reps": "12-15",
+                            "duration": null,
+                            "notes": "Squeeze quads at the top, slow release."
+                        },
+                        {
+                            "name": "Goblet Squat",
+                            "sets": 3,
+                            "reps": "8-12",
+                            "duration": null,
+                            "notes": "Maintain upright torso, deep squat."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "19:00",
+                    "time_end": "19:30",
+                    "task_name": "Meal Prep for Tomorrow",
+                    "category": "nutrition",
+                    "goal_ref": null,
+                    "notes": "Preparing components for tomorrow's meals to ensure healthy eating throughout the day.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "19:30",
+                    "time_end": "20:00",
+                    "task_name": "Mindful Meditation",
+                    "category": "rest",
+                    "goal_ref": null,
+                    "notes": "Taking time for mental relaxation and stress reduction after a busy day.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "20:00",
+                    "time_end": "21:00",
+                    "task_name": "Household Chores",
+                    "category": "household",
+                    "goal_ref": null,
+                    "notes": "Tackling essential chores to maintain a tidy and organized living space.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "21:00",
+                    "time_end": "22:00",
+                    "task_name": "Plan for Tomorrow",
+                    "category": "planning",
+                    "goal_ref": null,
+                    "notes": "Reviewing and refining tomorrow's schedule to ensure productivity and focus.",
+                    "exercises": null,
+                    "practice": null
+                }
+            ],
+            "day_summary": "A balanced day combining cardio, strength, and mindful rest to keep energy levels high."
+        },
+        {
+            "date": "2026-04-16",
+            "day_name": "Thursday",
+            "week_number": 1,
+            "tasks": [
+                {
+                    "time_start": "06:00",
+                    "time_end": "06:30",
+                    "task_name": "Dynamic Warm-up & Mobility",
+                    "category": "fitness",
+                    "goal_ref": "fitness building",
+                    "notes": "Preparing the body for the day with dynamic movements to improve flexibility and reduce injury risk.",
+                    "exercises": [
+                        {
+                            "name": "Leg Swings",
+                            "sets": null,
+                            "reps": "10 per leg",
+                            "duration": null,
+                            "notes": "Forward and sideways swings, controlled."
+                        },
+                        {
+                            "name": "Arm Circles",
+                            "sets": null,
+                            "reps": "10 forward/backward",
+                            "duration": null,
+                            "notes": "Large, controlled circles."
+                        },
+                        {
+                            "name": "Torso Twists",
+                            "sets": null,
+                            "reps": "10 per side",
+                            "duration": null,
+                            "notes": "Gentle rotation, keep hips stable."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "18:30",
+                    "time_end": "19:00",
+                    "task_name": "Upper Body Strength: Pull Focus",
+                    "category": "fitness",
+                    "goal_ref": "fitness building",
+                    "notes": "Focusing on back and biceps to complement Tuesday's push workout and ensure balanced development.",
+                    "exercises": [
+                        {
+                            "name": "Lat Pulldown",
+                            "sets": 3,
+                            "reps": "8-12",
+                            "duration": null,
+                            "notes": "Pull with your back, squeeze shoulder blades."
+                        },
+                        {
+                            "name": "Seated Cable Row",
+                            "sets": 3,
+                            "reps": "8-12",
+                            "duration": null,
+                            "notes": "Maintain upright posture, pull to lower abs."
+                        },
+                        {
+                            "name": "Dumbbell Bicep Curl",
+                            "sets": 3,
+                            "reps": "10-15",
+                            "duration": null,
+                            "notes": "Control the eccentric phase, avoid swinging."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "19:00",
+                    "time_end": "19:30",
+                    "task_name": "Post-Workout Shake & Snack",
+                    "category": "nutrition",
+                    "goal_ref": null,
+                    "notes": "Replenishing nutrients with a protein shake and healthy snack to aid muscle recovery.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "19:30",
+                    "time_end": "20:00",
+                    "task_name": "Relaxation & Stretching",
+                    "category": "rest",
+                    "goal_ref": null,
+                    "notes": "Gentle stretching to cool down and improve flexibility after the upper body workout.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "20:00",
+                    "time_end": "21:00",
+                    "task_name": "Hobby: Guitar Practice (Scales)",
+                    "category": "hobby",
+                    "goal_ref": null,
+                    "notes": "Dedicated time to improve guitar technique by practicing fundamental scales.",
+                    "exercises": null,
+                    "practice": [
+                        {
+                            "name": "C Major Scale",
+                            "duration": "15 min",
+                            "technique": "Focus on clean articulation and even rhythm."
+                        },
+                        {
+                            "name": "G Major Scale",
+                            "duration": "15 min",
+                            "technique": "Practice ascending and descending, alternate picking."
+                        }
+                    ]
+                },
+                {
+                    "time_start": "21:00",
+                    "time_end": "22:00",
+                    "task_name": "Wind Down & Prepare for Bed",
+                    "category": "personal",
+                    "goal_ref": null,
+                    "notes": "Engaging in a relaxing routine to prepare for a good night's sleep.",
+                    "exercises": null,
+                    "practice": null
+                }
+            ],
+            "day_summary": "A productive day focusing on upper body strength and unwinding with a musical hobby."
+        },
+        {
+            "date": "2026-04-17",
+            "day_name": "Friday",
+            "week_number": 1,
+            "tasks": [
+                {
+                    "time_start": "06:00",
+                    "time_end": "06:30",
+                    "task_name": "Core Strength Circuit",
+                    "category": "fitness",
+                    "goal_ref": "getting a six pack",
+                    "notes": "An intense core circuit to challenge abdominal muscles and build endurance.",
+                    "exercises": [
+                        {
+                            "name": "Cable Crunch",
+                            "sets": 3,
+                            "reps": "12-15",
+                            "duration": null,
+                            "notes": "Focus on contracting the abs, not just pulling with arms."
+                        },
+                        {
+                            "name": "Russian Twist (with weight)",
+                            "sets": 3,
+                            "reps": "10-12 per side",
+                            "duration": null,
+                            "notes": "Keep feet off the ground for more challenge, rotate torso."
+                        },
+                        {
+                            "name": "Hollow Hold",
+                            "sets": 3,
+                            "reps": "30-45s hold",
+                            "duration": null,
+                            "notes": "Press lower back into floor, engage entire core."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "18:30",
+                    "time_end": "19:00",
+                    "task_name": "Full Body HIIT",
+                    "category": "fitness",
+                    "goal_ref": "fitness building",
+                    "notes": "A high-intensity interval training session to boost cardiovascular fitness and burn calories.",
+                    "exercises": [
+                        {
+                            "name": "Burpees",
+                            "sets": null,
+                            "reps": null,
+                            "duration": "45s work, 15s rest x 3 rounds",
+                            "notes": "Full range of motion, explosive jump."
+                        },
+                        {
+                            "name": "Mountain Climbers",
+                            "sets": null,
+                            "reps": null,
+                            "duration": "45s work, 15s rest x 3 rounds",
+                            "notes": "Keep core tight, drive knees to chest."
+                        },
+                        {
+                            "name": "Jump Squats",
+                            "sets": null,
+                            "reps": null,
+                            "duration": "45s work, 15s rest x 3 rounds",
+                            "notes": "Land softly, explode upwards."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "19:00",
+                    "time_end": "19:30",
+                    "task_name": "Dinner & Social Time",
+                    "category": "social",
+                    "goal_ref": null,
+                    "notes": "Enjoying a relaxed dinner and catching up with family or friends.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "19:30",
+                    "time_end": "20:00",
+                    "task_name": "Foam Rolling & Static Stretch",
+                    "category": "rest",
+                    "goal_ref": null,
+                    "notes": "Using a foam roller to release muscle tension and performing static stretches for flexibility.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "20:00",
+                    "time_end": "21:00",
+                    "task_name": "Movie Night",
+                    "category": "leisure",
+                    "goal_ref": null,
+                    "notes": "Unwinding with a movie to relax and enjoy the start of the weekend.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "21:00",
+                    "time_end": "22:00",
+                    "task_name": "Weekend Planning",
+                    "category": "planning",
+                    "goal_ref": null,
+                    "notes": "Briefly outlining plans for the weekend to make the most of free time.",
+                    "exercises": null,
+                    "practice": null
+                }
+            ],
+            "day_summary": "An energetic Friday with challenging core and HIIT workouts, transitioning into a relaxing evening."
+        },
+        {
+            "date": "2026-04-18",
+            "day_name": "Saturday",
+            "week_number": 1,
+            "tasks": [
+                {
+                    "time_start": "11:00",
+                    "time_end": "12:00",
+                    "task_name": "Outdoor Walk/Light Hike",
+                    "category": "fitness",
+                    "goal_ref": "fitness building",
+                    "notes": "Enjoying the outdoors with a brisk walk to maintain activity levels and clear the mind.",
+                    "exercises": [
+                        {
+                            "name": "Brisk Walk",
+                            "sets": null,
+                            "reps": null,
+                            "duration": "60 min at moderate pace",
+                            "notes": "Focus on consistent pace and enjoying nature."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "12:00",
+                    "time_end": "13:00",
+                    "task_name": "Brunch & Grocery Shopping",
+                    "category": "nutrition",
+                    "goal_ref": null,
+                    "notes": "Having a leisurely brunch and stocking up on healthy ingredients for the week ahead.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "13:00",
+                    "time_end": "14:00",
+                    "task_name": "Active Recovery: Yoga Flow",
+                    "category": "rest",
+                    "goal_ref": null,
+                    "notes": "A gentle yoga session to improve flexibility, balance, and aid muscle recovery.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "14:00",
+                    "time_end": "15:00",
+                    "task_name": "Hobby: Guitar Practice (Chords)",
+                    "category": "hobby",
+                    "goal_ref": null,
+                    "notes": "Dedicated time to practice chord transitions and basic strumming patterns.",
+                    "exercises": null,
+                    "practice": [
+                        {
+                            "name": "G-C-D Chord Transitions",
+                            "duration": "20 min",
+                            "technique": "Focus on smooth, quick changes between chords."
+                        },
+                        {
+                            "name": "Basic Strumming Pattern",
+                            "duration": "20 min",
+                            "technique": "Maintain consistent rhythm and even dynamics."
+                        }
+                    ]
+                },
+                {
+                    "time_start": "15:00",
+                    "time_end": "16:00",
+                    "task_name": "Personal Project Work",
+                    "category": "personal",
+                    "goal_ref": null,
+                    "notes": "Allocating time for a personal project or creative pursuit.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "16:00",
+                    "time_end": "17:00",
+                    "task_name": "Social Call/Catch-up",
+                    "category": "social",
+                    "goal_ref": null,
+                    "notes": "Connecting with friends or family members over a call.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "17:00",
+                    "time_end": "18:00",
+                    "task_name": "Dinner Preparation",
+                    "category": "nutrition",
+                    "goal_ref": null,
+                    "notes": "Preparing a healthy and enjoyable dinner for the evening.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "18:00",
+                    "time_end": "20:00",
+                    "task_name": "Movie Night with Friends",
+                    "category": "leisure",
+                    "goal_ref": null,
+                    "notes": "Enjoying a relaxed movie night with friends.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "20:00",
+                    "time_end": "21:00",
+                    "task_name": "Evening Wind Down",
+                    "category": "personal",
+                    "goal_ref": null,
+                    "notes": "Preparing for bed and winding down after a social evening.",
+                    "exercises": null,
+                    "practice": null
+                }
+            ],
+            "day_summary": "A relaxed Saturday blending outdoor activity, hobbies, and social connections."
+        },
+        {
+            "date": "2026-04-19",
+            "day_name": "Sunday",
+            "week_number": 1,
+            "tasks": [
+                {
+                    "time_start": "11:00",
+                    "time_end": "12:00",
+                    "task_name": "Meal Prep for Week Ahead",
+                    "category": "nutrition",
+                    "goal_ref": null,
+                    "notes": "Batch cooking and preparing meals for the upcoming week to ensure healthy eating.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "12:00",
+                    "time_end": "13:00",
+                    "task_name": "Core Endurance Circuit",
+                    "category": "fitness",
+                    "goal_ref": "getting a six pack",
+                    "notes": "A longer core session focusing on endurance and stability.",
+                    "exercises": [
+                        {
+                            "name": "Side Plank",
+                            "sets": 3,
+                            "reps": "30-45s per side",
+                            "duration": null,
+                            "notes": "Keep body in a straight line, hips lifted."
+                        },
+                        {
+                            "name": "Leg Raises",
+                            "sets": 3,
+                            "reps": "15-20",
+                            "duration": null,
+                            "notes": "Keep lower back pressed to the floor, control descent."
+                        },
+                        {
+                            "name": "Flutter Kicks",
+                            "sets": 3,
+                            "reps": "30-45s",
+                            "duration": null,
+                            "notes": "Small, controlled kicks, engage lower abs."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "13:00",
+                    "time_end": "13:30",
+                    "task_name": "Light Stretching & Mobility",
+                    "category": "rest",
+                    "goal_ref": null,
+                    "notes": "Gentle stretching to cool down and improve overall mobility.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "13:30",
+                    "time_end": "14:30",
+                    "task_name": "Errands & Housekeeping",
+                    "category": "household",
+                    "goal_ref": null,
+                    "notes": "Running necessary errands and tidying up the living space.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "14:30",
+                    "time_end": "15:30",
+                    "task_name": "Pre-Football Warm-up",
+                    "category": "fitness",
+                    "goal_ref": "fitness building",
+                    "notes": "Dynamic warm-up specific to football to prepare muscles and prevent injury.",
+                    "exercises": [
+                        {
+                            "name": "Dynamic Leg Swings",
+                            "sets": null,
+                            "reps": "10 per leg",
+                            "duration": null,
+                            "notes": "Focus on hip mobility."
+                        },
+                        {
+                            "name": "High Knees & Butt Kicks",
+                            "sets": null,
+                            "reps": null,
+                            "duration": "5 min",
+                            "notes": "Increase heart rate and activate leg muscles."
+                        },
+                        {
+                            "name": "Agility Drills (cones)",
+                            "sets": null,
+                            "reps": null,
+                            "duration": "10 min",
+                            "notes": "Quick changes of direction."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "17:00",
+                    "time_end": "22:00",
+                    "task_name": "Football Game",
+                    "category": "rigid",
+                    "goal_ref": "fitness building",
+                    "notes": "Participating in the weekly football game for fitness and enjoyment.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "23:30",
+                    "time_end": "23:59",
+                    "task_name": "Post-Game Recovery & Sleep Prep",
+                    "category": "rest",
+                    "goal_ref": null,
+                    "notes": "Cool down, light stretching, and preparing for sleep after the football game.",
+                    "exercises": null,
+                    "practice": null
+                }
+            ],
+            "day_summary": "A productive Sunday balancing meal prep, core work, and an intense football game."
+        },
+        {
+            "date": "2026-04-20",
+            "day_name": "Monday",
+            "week_number": 1,
+            "tasks": [
+                {
+                    "time_start": "06:00",
+                    "time_end": "06:30",
+                    "task_name": "Morning Mobility Flow",
+                    "category": "fitness",
+                    "goal_ref": "fitness building",
+                    "notes": "A gentle mobility routine to ease into the week and address any post-football stiffness.",
+                    "exercises": [
+                        {
+                            "name": "Cat-Cow Stretch",
+                            "sets": 3,
+                            "reps": "10",
+                            "duration": null,
+                            "notes": "Synchronize with breath."
+                        },
+                        {
+                            "name": "Thread the Needle",
+                            "sets": 2,
+                            "reps": "5 per side",
+                            "duration": null,
+                            "notes": "Gentle shoulder and upper back stretch."
+                        },
+                        {
+                            "name": "Child's Pose",
+                            "sets": 1,
+                            "reps": null,
+                            "duration": "2 min",
+                            "notes": "Deep relaxation and back stretch."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "18:30",
+                    "time_end": "19:00",
+                    "task_name": "Lower Body Strength: Glute/Ham Focus",
+                    "category": "fitness",
+                    "goal_ref": "fitness building",
+                    "notes": "Targeting glutes and hamstrings to build balanced lower body strength and power.",
+                    "exercises": [
+                        {
+                            "name": "Romanian Deadlift (Dumbbell)",
+                            "sets": 3,
+                            "reps": "8-12",
+                            "duration": null,
+                            "notes": "Maintain slight bend in knees, hinge at hips."
+                        },
+                        {
+                            "name": "Glute Bridge",
+                            "sets": 3,
+                            "reps": "12-15",
+                            "duration": null,
+                            "notes": "Squeeze glutes at the top, control descent."
+                        },
+                        {
+                            "name": "Leg Curl",
+                            "sets": 3,
+                            "reps": "10-15",
+                            "duration": null,
+                            "notes": "Focus on hamstring contraction."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "19:00",
+                    "time_end": "19:30",
+                    "task_name": "Dinner & Relaxation",
+                    "category": "nutrition",
+                    "goal_ref": null,
+                    "notes": "Enjoying a nutritious dinner and unwinding after the day's activities.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "19:30",
+                    "time_end": "20:00",
+                    "task_name": "Guided Meditation",
+                    "category": "rest",
+                    "goal_ref": null,
+                    "notes": "A guided meditation session to promote mental clarity and reduce stress.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "20:00",
+                    "time_end": "21:00",
+                    "task_name": "Review Week 1 Progress",
+                    "category": "planning",
+                    "goal_ref": null,
+                    "notes": "Assessing fitness and nutrition progress from Week 1 and making adjustments for Week 2.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "21:00",
+                    "time_end": "22:00",
+                    "task_name": "Evening Reading",
+                    "category": "personal",
+                    "goal_ref": null,
+                    "notes": "Engaging in some light reading to relax before bed.",
+                    "exercises": null,
+                    "practice": null
+                }
+            ],
+            "day_summary": "A focused Monday with lower body strength and reflective planning for the week ahead."
+        },
+        {
+            "date": "2026-04-21",
+            "day_name": "Tuesday",
+            "week_number": 2,
+            "tasks": [
+                {
+                    "time_start": "06:00",
+                    "time_end": "06:30",
+                    "task_name": "Morning Core Circuit (Increased Volume)",
+                    "category": "fitness",
+                    "goal_ref": "getting a six pack",
+                    "notes": "Increasing the reps/duration for morning core work to step up the challenge.",
+                    "exercises": [
+                        {
+                            "name": "Plank",
+                            "sets": 3,
+                            "reps": "45-60s hold",
+                            "duration": null,
+                            "notes": "Maintain perfect form, focus on deep core engagement."
+                        },
+                        {
+                            "name": "Dead Bug",
+                            "sets": 3,
+                            "reps": "12-15 per side",
+                            "duration": null,
+                            "notes": "Slower, more controlled movement."
+                        },
+                        {
+                            "name": "Side Plank",
+                            "sets": 3,
+                            "reps": "30-45s per side",
+                            "duration": null,
+                            "notes": "Ensure hips are stacked and stable."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "18:30",
+                    "time_end": "19:00",
+                    "task_name": "Upper Body Strength: Push Focus (Increased Volume)",
+                    "category": "fitness",
+                    "goal_ref": "fitness building",
+                    "notes": "Increasing sets/reps for upper body push exercises to progress strength.",
+                    "exercises": [
+                        {
+                            "name": "Dumbbell Bench Press",
+                            "sets": 4,
+                            "reps": "8-12",
+                            "duration": null,
+                            "notes": "Focus on mind-muscle connection, controlled movement."
+                        },
+                        {
+                            "name": "Incline Dumbbell Press",
+                            "sets": 3,
+                            "reps": "8-12",
+                            "duration": null,
+                            "notes": "Target upper chest, slight incline."
+                        },
+                        {
+                            "name": "Overhead Press (Dumbbell)",
+                            "sets": 3,
+                            "reps": "8-12",
+                            "duration": null,
+                            "notes": "Explosive press, controlled lowering."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "19:00",
+                    "time_end": "19:30",
+                    "task_name": "Dinner & Meal Prep",
+                    "category": "nutrition",
+                    "goal_ref": null,
+                    "notes": "Preparing a healthy dinner and planning meals for the next day.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "19:30",
+                    "time_end": "20:00",
+                    "task_name": "Post-Workout Stretching",
+                    "category": "rest",
+                    "goal_ref": null,
+                    "notes": "Targeted stretching for chest, shoulders, and triceps to aid recovery.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "20:00",
+                    "time_end": "21:00",
+                    "task_name": "Learning New Skill (Online Course)",
+                    "category": "personal",
+                    "goal_ref": null,
+                    "notes": "Dedicating time to an online course for personal development.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "21:00",
+                    "time_end": "22:00",
+                    "task_name": "Evening Routine & Journaling",
+                    "category": "personal",
+                    "goal_ref": null,
+                    "notes": "Completing evening hygiene and reflecting on the day's progress.",
+                    "exercises": null,
+                    "practice": null
+                }
+            ],
+            "day_summary": "Stepping up the intensity on core and upper body workouts, maintaining focus on growth."
+        },
+        {
+            "date": "2026-04-22",
+            "day_name": "Wednesday",
+            "week_number": 2,
+            "tasks": [
+                {
+                    "time_start": "06:00",
+                    "time_end": "06:30",
+                    "task_name": "Morning Cardio: HIIT Sprints",
+                    "category": "fitness",
+                    "goal_ref": "fitness building",
+                    "notes": "An intense HIIT session to improve cardiovascular endurance and fat burning.",
+                    "exercises": [
+                        {
+                            "name": "Sprint Intervals",
+                            "sets": null,
+                            "reps": null,
+                            "duration": "20s sprint, 40s walk x 15 rounds",
+                            "notes": "Push maximum effort during sprints."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "18:30",
+                    "time_end": "19:00",
+                    "task_name": "Lower Body Strength: Quad Focus (Increased Volume)",
+                    "category": "fitness",
+                    "goal_ref": "fitness building",
+                    "notes": "Increasing the challenge on quad-focused exercises to continue building leg strength.",
+                    "exercises": [
+                        {
+                            "name": "Barbell Back Squat",
+                            "sets": 3,
+                            "reps": "6-10",
+                            "duration": null,
+                            "notes": "Focus on depth and controlled movement, use appropriate weight."
+                        },
+                        {
+                            "name": "Leg Press",
+                            "sets": 4,
+                            "reps": "10-15",
+                            "duration": null,
+                            "notes": "Increase weight slightly, maintain form."
+                        },
+                        {
+                            "name": "Walking Lunges (Dumbbell)",
+                            "sets": 3,
+                            "reps": "10-12 per leg",
+                            "duration": null,
+                            "notes": "Keep torso upright, controlled steps."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "19:00",
+                    "time_end": "19:30",
+                    "task_name": "Post-Workout Nutrition",
+                    "category": "nutrition",
+                    "goal_ref": null,
+                    "notes": "Refueling with a protein-rich meal to support muscle repair and growth.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "19:30",
+                    "time_end": "20:00",
+                    "task_name": "Mindfulness Practice",
+                    "category": "rest",
+                    "goal_ref": null,
+                    "notes": "Engaging in mindfulness to reduce stress and improve mental well-being.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "20:00",
+                    "time_end": "21:00",
+                    "task_name": "Household Organization",
+                    "category": "household",
+                    "goal_ref": null,
+                    "notes": "Tidying and organizing specific areas of the home.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "21:00",
+                    "time_end": "22:00",
+                    "task_name": "Review Daily Goals",
+                    "category": "planning",
+                    "goal_ref": null,
+                    "notes": "Checking off completed tasks and preparing for the next day's activities.",
+                    "exercises": null,
+                    "practice": null
+                }
+            ],
+            "day_summary": "A challenging day with intense cardio and lower body work, balanced with mindful rest."
+        },
+        {
+            "date": "2026-04-23",
+            "day_name": "Thursday",
+            "week_number": 2,
+            "tasks": [
+                {
+                    "time_start": "06:00",
+                    "time_end": "06:30",
+                    "task_name": "Dynamic Warm-up & Activation",
+                    "category": "fitness",
+                    "goal_ref": "fitness building",
+                    "notes": "A dynamic warm-up to prepare the body for the upcoming workout and improve mobility.",
+                    "exercises": [
+                        {
+                            "name": "World's Greatest Stretch",
+                            "sets": 2,
+                            "reps": "3 per side",
+                            "duration": null,
+                            "notes": "Focus on opening up hips and thoracic spine."
+                        },
+                        {
+                            "name": "Band Pull-Aparts",
+                            "sets": 3,
+                            "reps": "15-20",
+                            "duration": null,
+                            "notes": "Activate upper back and shoulder muscles."
+                        },
+                        {
+                            "name": "Leg Swings",
+                            "sets": 2,
+                            "reps": "10 per leg",
+                            "duration": null,
+                            "notes": "Improve hip flexibility."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "18:30",
+                    "time_end": "19:00",
+                    "task_name": "Upper Body Strength: Pull Focus (Increased Volume)",
+                    "category": "fitness",
+                    "goal_ref": "fitness building",
+                    "notes": "Increasing the volume for back and bicep exercises to continue building strength and muscle.",
+                    "exercises": [
+                        {
+                            "name": "Pull-Ups (Assisted)",
+                            "sets": 3,
+                            "reps": "AMRAP",
+                            "duration": null,
+                            "notes": "Focus on full range of motion, controlled descent."
+                        },
+                        {
+                            "name": "Bent-Over Row (Barbell)",
+                            "sets": 3,
+                            "reps": "8-12",
+                            "duration": null,
+                            "notes": "Maintain flat back, pull to lower chest."
+                        },
+                        {
+                            "name": "Hammer Curls",
+                            "sets": 3,
+                            "reps": "10-15",
+                            "duration": null,
+                            "notes": "Keep elbows tucked, focus on brachialis."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "19:00",
+                    "time_end": "19:30",
+                    "task_name": "Dinner & Recovery Drink",
+                    "category": "nutrition",
+                    "goal_ref": null,
+                    "notes": "Consuming a balanced dinner and a recovery drink to support muscle repair.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "19:30",
+                    "time_end": "20:00",
+                    "task_name": "Deep Tissue Release (Foam Roller)",
+                    "category": "rest",
+                    "goal_ref": null,
+                    "notes": "Using a foam roller to target tight muscles and improve recovery.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "20:00",
+                    "time_end": "21:00",
+                    "task_name": "Hobby: Guitar Practice (Song Section)",
+                    "category": "hobby",
+                    "goal_ref": null,
+                    "notes": "Working on a specific song section to apply learned techniques.",
+                    "exercises": null,
+                    "practice": [
+                        {
+                            "name": "Song Section A - 'Sweet Home Alabama' riff",
+                            "duration": "30 min",
+                            "technique": "Focus on timing and accuracy of notes."
+                        },
+                        {
+                            "name": "Song Section B - 'Stairway to Heaven' intro",
+                            "duration": "30 min",
+                            "technique": "Practice fingerpicking pattern and smooth transitions."
+                        }
+                    ]
+                },
+                {
+                    "time_start": "21:00",
+                    "time_end": "22:00",
+                    "task_name": "Relaxation & Bedtime Prep",
+                    "category": "personal",
+                    "goal_ref": null,
+                    "notes": "Engaging in a relaxing routine to prepare for a good night's sleep.",
+                    "exercises": null,
+                    "practice": null
+                }
+            ],
+            "day_summary": "A strong day of upper body training and focused guitar practice, balancing effort and enjoyment."
+        },
+        {
+            "date": "2026-04-24",
+            "day_name": "Friday",
+            "week_number": 2,
+            "tasks": [
+                {
+                    "time_start": "06:00",
+                    "time_end": "06:30",
+                    "task_name": "Advanced Core Circuit",
+                    "category": "fitness",
+                    "goal_ref": "getting a six pack",
+                    "notes": "An advanced core circuit to challenge stability and strength, pushing towards the six-pack goal.",
+                    "exercises": [
+                        {
+                            "name": "Hanging Leg Raises",
+                            "sets": 3,
+                            "reps": "8-12",
+                            "duration": null,
+                            "notes": "Control the movement, avoid swinging."
+                        },
+                        {
+                            "name": "Ab Rollout (with wheel)",
+                            "sets": 3,
+                            "reps": "8-12",
+                            "duration": null,
+                            "notes": "Keep core tight, extend as far as possible without arching back."
+                        },
+                        {
+                            "name": "Weighted Russian Twist",
+                            "sets": 3,
+                            "reps": "12-15 per side",
+                            "duration": null,
+                            "notes": "Increase weight from last week, maintain control."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "18:30",
+                    "time_end": "19:00",
+                    "task_name": "Full Body Metabolic Conditioning",
+                    "category": "fitness",
+                    "goal_ref": "fitness building",
+                    "notes": "A high-intensity full-body session to improve overall conditioning and endurance.",
+                    "exercises": [
+                        {
+                            "name": "Kettlebell Swings",
+                            "sets": null,
+                            "reps": null,
+                            "duration": "45s work, 15s rest x 3 rounds",
+                            "notes": "Hinge at hips, powerful hip drive."
+                        },
+                        {
+                            "name": "Push-Ups",
+                            "sets": null,
+                            "reps": null,
+                            "duration": "45s work, 15s rest x 3 rounds",
+                            "notes": "Maintain straight body line, full range of motion."
+                        },
+                        {
+                            "name": "Box Jumps",
+                            "sets": null,
+                            "reps": null,
+                            "duration": "45s work, 15s rest x 3 rounds",
+                            "notes": "Land softly, step down."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "19:00",
+                    "time_end": "19:30",
+                    "task_name": "Dinner & Socializing",
+                    "category": "social",
+                    "goal_ref": null,
+                    "notes": "Enjoying a relaxed dinner and social time to unwind from the week.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "19:30",
+                    "time_end": "20:00",
+                    "task_name": "Cool Down & Static Stretching",
+                    "category": "rest",
+                    "goal_ref": null,
+                    "notes": "Performing static stretches to improve flexibility and aid muscle recovery.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "20:00",
+                    "time_end": "21:00",
+                    "task_name": "Documentary Viewing",
+                    "category": "leisure",
+                    "goal_ref": null,
+                    "notes": "Relaxing with an informative documentary.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "21:00",
+                    "time_end": "22:00",
+                    "task_name": "Weekend Planning & Reflection",
+                    "category": "planning",
+                    "goal_ref": null,
+                    "notes": "Reviewing the week's achievements and planning for the weekend.",
+                    "exercises": null,
+                    "practice": null
+                }
+            ],
+            "day_summary": "An intense Friday with advanced core and full-body conditioning, leading into a well-deserved weekend."
+        },
+        {
+            "date": "2026-04-25",
+            "day_name": "Saturday",
+            "week_number": 2,
+            "tasks": [
+                {
+                    "time_start": "11:00",
+                    "time_end": "12:00",
+                    "task_name": "Outdoor Activity: Cycling",
+                    "category": "fitness",
+                    "goal_ref": "fitness building",
+                    "notes": "Enjoying a cycling session outdoors to maintain cardiovascular fitness and explore.",
+                    "exercises": [
+                        {
+                            "name": "Cycling",
+                            "sets": null,
+                            "reps": null,
+                            "duration": "60 min at moderate intensity",
+                            "notes": "Vary terrain if possible, focus on consistent effort."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "12:00",
+                    "time_end": "13:00",
+                    "task_name": "Lunch & Errands",
+                    "category": "nutrition",
+                    "goal_ref": null,
+                    "notes": "Having a healthy lunch and running essential errands.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "13:00",
+                    "time_end": "14:00",
+                    "task_name": "Active Recovery: Mobility Drills",
+                    "category": "rest",
+                    "goal_ref": null,
+                    "notes": "Focusing on specific mobility drills to improve range of motion and prevent stiffness.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "14:00",
+                    "time_end": "15:00",
+                    "task_name": "Hobby: Guitar Practice (Performance)",
+                    "category": "hobby",
+                    "goal_ref": null,
+                    "notes": "Practicing a full song from memory, focusing on performance aspects.",
+                    "exercises": null,
+                    "practice": [
+                        {
+                            "name": "Perform 'House of the Rising Sun'",
+                            "duration": "30 min",
+                            "technique": "Play through the entire song, focusing on dynamics and expression."
+                        },
+                        {
+                            "name": "Improvisation over a backing track",
+                            "duration": "30 min",
+                            "technique": "Experiment with scales and melodic ideas."
+                        }
+                    ]
+                },
+                {
+                    "time_start": "15:00",
+                    "time_end": "16:00",
+                    "task_name": "Creative Writing",
+                    "category": "personal",
+                    "goal_ref": null,
+                    "notes": "Engaging in creative writing to stimulate the mind and express ideas.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "16:00",
+                    "time_end": "17:00",
+                    "task_name": "Social Gathering",
+                    "category": "social",
+                    "goal_ref": null,
+                    "notes": "Attending a casual social gathering with friends.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "17:00",
+                    "time_end": "18:00",
+                    "task_name": "Dinner Preparation",
+                    "category": "nutrition",
+                    "goal_ref": null,
+                    "notes": "Preparing a healthy and enjoyable dinner.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "18:00",
+                    "time_end": "20:00",
+                    "task_name": "Board Games Night",
+                    "category": "leisure",
+                    "goal_ref": null,
+                    "notes": "Enjoying an evening of board games with friends or family.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "20:00",
+                    "time_end": "21:00",
+                    "task_name": "Evening Wind Down",
+                    "category": "personal",
+                    "goal_ref": null,
+                    "notes": "Preparing for bed and winding down after a social evening.",
+                    "exercises": null,
+                    "practice": null
+                }
+            ],
+            "day_summary": "A well-rounded Saturday with outdoor activity, creative pursuits, and social enjoyment."
+        },
+        {
+            "date": "2026-04-26",
+            "day_name": "Sunday",
+            "week_number": 2,
+            "tasks": [
+                {
+                    "time_start": "11:00",
+                    "time_end": "12:00",
+                    "task_name": "Core Strength & Stability",
+                    "category": "fitness",
+                    "goal_ref": "getting a six pack",
+                    "notes": "A focused session on core strength and stability, incorporating advanced exercises.",
+                    "exercises": [
+                        {
+                            "name": "Dragon Flags (modified)",
+                            "sets": 3,
+                            "reps": "5-8",
+                            "duration": null,
+                            "notes": "Focus on slow, controlled movement, engage entire core."
+                        },
+                        {
+                            "name": "V-Ups",
+                            "sets": 3,
+                            "reps": "10-15",
+                            "duration": null,
+                            "notes": "Keep legs straight, reach for toes."
+                        },
+                        {
+                            "name": "Plank with Leg Lift",
+                            "sets": 3,
+                            "reps": "10 per leg",
+                            "duration": null,
+                            "notes": "Maintain stable core, avoid rocking hips."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "12:00",
+                    "time_end": "13:00",
+                    "task_name": "Brunch & Relax",
+                    "category": "nutrition",
+                    "goal_ref": null,
+                    "notes": "Enjoying a leisurely brunch and some quiet time.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "13:00",
+                    "time_end": "13:30",
+                    "task_name": "Light Stretching & Foam Rolling",
+                    "category": "rest",
+                    "goal_ref": null,
+                    "notes": "Gentle stretching and foam rolling to prepare for the football game.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "13:30",
+                    "time_end": "14:30",
+                    "task_name": "Pre-Football Dynamic Warm-up",
+                    "category": "fitness",
+                    "goal_ref": "fitness building",
+                    "notes": "A thorough dynamic warm-up to optimize performance and prevent injury for the football game.",
+                    "exercises": [
+                        {
+                            "name": "Dynamic Stretches (leg swings, torso twists)",
+                            "sets": null,
+                            "reps": null,
+                            "duration": "15 min",
+                            "notes": "Focus on full range of motion."
+                        },
+                        {
+                            "name": "Plyometric Drills (box jumps, broad jumps)",
+                            "sets": null,
+                            "reps": null,
+                            "duration": "15 min",
+                            "notes": "Explosive movements to activate fast-twitch fibers."
+                        },
+                        {
+                            "name": "Short Sprints & Direction Changes",
+                            "sets": null,
+                            "reps": null,
+                            "duration": "15 min",
+                            "notes": "Practice game-like movements."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "14:30",
+                    "time_end": "15:30",
+                    "task_name": "Strategy Review for Football",
+                    "category": "hobby",
+                    "goal_ref": null,
+                    "notes": "Reviewing team strategy and individual roles for the upcoming football game.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "17:00",
+                    "time_end": "22:00",
+                    "task_name": "Football Game",
+                    "category": "rigid",
+                    "goal_ref": "fitness building",
+                    "notes": "Participating in the weekly football game, applying improved fitness.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "23:30",
+                    "time_end": "23:59",
+                    "task_name": "Post-Game Recovery & Sleep Prep",
+                    "category": "rest",
+                    "goal_ref": null,
+                    "notes": "Cool down, light stretching, and preparing for sleep after the football game.",
+                    "exercises": null,
+                    "practice": null
+                }
+            ],
+            "day_summary": "An intense Sunday with advanced core work and a competitive football game, ending the sprint strong."
+        },
+        {
+            "date": "2026-04-27",
+            "day_name": "Monday",
+            "week_number": 2,
+            "tasks": [
+                {
+                    "time_start": "06:00",
+                    "time_end": "06:30",
+                    "task_name": "Gentle Mobility & Stretching",
+                    "category": "fitness",
+                    "goal_ref": "fitness building",
+                    "notes": "A gentle start to the day with mobility exercises to ease post-football soreness.",
+                    "exercises": [
+                        {
+                            "name": "Foam Rolling (legs and back)",
+                            "sets": null,
+                            "reps": null,
+                            "duration": "15 min",
+                            "notes": "Target tight areas, hold on tender spots."
+                        },
+                        {
+                            "name": "Dynamic Hip Stretches",
+                            "sets": null,
+                            "reps": "5 per side",
+                            "duration": null,
+                            "notes": "Controlled movements to open up hips."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "18:30",
+                    "time_end": "19:00",
+                    "task_name": "Full Body Active Recovery",
+                    "category": "fitness",
+                    "goal_ref": "fitness building",
+                    "notes": "A light full-body session focused on active recovery to promote blood flow and reduce soreness.",
+                    "exercises": [
+                        {
+                            "name": "Bodyweight Squats",
+                            "sets": 3,
+                            "reps": "15-20",
+                            "duration": null,
+                            "notes": "Focus on smooth, controlled movement."
+                        },
+                        {
+                            "name": "Push-Ups (on knees if needed)",
+                            "sets": 3,
+                            "reps": "AMRAP",
+                            "duration": null,
+                            "notes": "Maintain good form, light effort."
+                        },
+                        {
+                            "name": "Bird-Dog",
+                            "sets": 3,
+                            "reps": "10-12 per side",
+                            "duration": null,
+                            "notes": "Focus on core stability."
+                        }
+                    ],
+                    "practice": null
+                },
+                {
+                    "time_start": "19:00",
+                    "time_end": "19:30",
+                    "task_name": "Dinner & Sprint Review",
+                    "category": "planning",
+                    "goal_ref": null,
+                    "notes": "Enjoying dinner while reviewing the entire two-week sprint's progress and achievements.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "19:30",
+                    "time_end": "20:00",
+                    "task_name": "Relaxation & Self-Care",
+                    "category": "rest",
+                    "goal_ref": null,
+                    "notes": "Taking time for self-care, such as a warm bath or reading, to fully unwind.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "20:00",
+                    "time_end": "21:00",
+                    "task_name": "Future Planning & Goal Setting",
+                    "category": "planning",
+                    "goal_ref": null,
+                    "notes": "Setting new goals and planning for the next phase of fitness and personal development.",
+                    "exercises": null,
+                    "practice": null
+                },
+                {
+                    "time_start": "21:00",
+                    "time_end": "22:00",
+                    "task_name": "Evening Routine & Early Bedtime",
+                    "category": "personal",
+                    "goal_ref": null,
+                    "notes": "Prioritizing an early bedtime to ensure adequate rest and recovery after the sprint.",
+                    "exercises": null,
+                    "practice": null
+                }
+            ],
+            "day_summary": "A final day of recovery and reflection, celebrating the progress made during the two-week sprint."
+        }
+    ],
+    "general_advice": "Consistency is key for both fitness and skill development. Don't be afraid to adjust intensity based on how your body feels, especially after intense sessions like football. Remember to celebrate small victories and stay hydrated throughout the day to support your body's recovery and performance."
+}

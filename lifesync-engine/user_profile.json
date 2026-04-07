@@ -1,103 +1,108 @@
 {
     "commute": {
-        "prep_time_mins": 15.0,
+        "prep_time_mins": 30.0,
         "travel_time_mins": 60.0
     },
     "weekly_schedule": {
         "monday": {
-            "wake_time": "03:45",
-            "sleep_time": "22:00",
+            "wake_time": "06:00",
+            "sleep_time": "23:59",
             "work_start": "08:00",
             "work_end": "17:00",
             "free_slots": [
-                "03:45 \u2192 06:45",
-                "18:30 \u2192 22:00"
+                "06:00 \u2192 06:30",
+                "18:30 \u2192 23:59"
             ]
         },
         "tuesday": {
-            "wake_time": "03:45",
-            "sleep_time": "22:00",
+            "wake_time": "06:00",
+            "sleep_time": "23:59",
             "work_start": "08:00",
             "work_end": "17:00",
             "free_slots": [
-                "03:45 \u2192 06:45",
-                "18:30 \u2192 22:00"
+                "06:00 \u2192 06:30",
+                "18:30 \u2192 23:59"
             ]
         },
         "wednesday": {
-            "wake_time": "03:45",
-            "sleep_time": "22:00",
+            "wake_time": "06:00",
+            "sleep_time": "23:59",
             "work_start": "08:00",
             "work_end": "17:00",
             "free_slots": [
-                "03:45 \u2192 06:45",
-                "18:30 \u2192 22:00"
+                "06:00 \u2192 06:30",
+                "18:30 \u2192 23:59"
             ]
         },
         "thursday": {
-            "wake_time": "03:45",
-            "sleep_time": "22:00",
+            "wake_time": "06:00",
+            "sleep_time": "23:59",
             "work_start": "08:00",
             "work_end": "17:00",
             "free_slots": [
-                "03:45 \u2192 06:45",
-                "18:30 \u2192 22:00"
+                "06:00 \u2192 06:30",
+                "18:30 \u2192 23:59"
             ]
         },
         "friday": {
-            "wake_time": "03:45",
-            "sleep_time": "22:00",
+            "wake_time": "06:00",
+            "sleep_time": "23:59",
             "work_start": "08:00",
             "work_end": "17:00",
             "free_slots": [
-                "03:45 \u2192 06:45",
-                "18:30 \u2192 22:00"
+                "06:00 \u2192 06:30",
+                "18:30 \u2192 23:59"
             ]
         },
         "saturday": {
-            "wake_time": "08:00",
-            "sleep_time": "22:00",
-            "work_start": "12:00",
-            "work_end": "19:00",
+            "wake_time": "11:00",
+            "sleep_time": "23:59",
             "free_slots": [
-                "08:00 \u2192 10:45",
-                "20:30 \u2192 22:00"
+                "11:00 \u2192 23:59"
             ]
         },
         "sunday": {
-            "wake_time": "08:00",
-            "sleep_time": "22:00",
+            "wake_time": "11:00",
+            "sleep_time": "23:59",
+            "work_start": "17:00",
+            "work_end": "22:00",
             "free_slots": [
-                "08:00 \u2192 22:00"
+                "11:00 \u2192 15:30",
+                "23:30 \u2192 23:59"
             ]
         }
     },
     "goals": [
         {
-            "name": "getting a good physique by converting the fat into muscle",
-            "weekly_hours": 10.0,
+            "name": "fitness building",
+            "weekly_hours": 14.0,
             "priority": 1
         },
         {
-            "name": "learning a new musical instrument",
-            "weekly_hours": 7.0,
-            "priority": 4
+            "name": "getting a six pack",
+            "weekly_hours": 14.0,
+            "priority": 1
         }
     ],
     "hobbies": [
         {
-            "name": "gardening",
-            "weekly_hours": 3.0,
+            "name": "football",
+            "weekly_hours": 11.0,
+            "flexible": true
+        },
+        {
+            "name": "",
+            "weekly_hours": 0.0,
             "flexible": true
         }
     ],
     "rigid_blocks": [
         {
-            "name": "nebuliser",
-            "start_time": "18:00",
-            "end_time": "18:15",
+            "name": "football",
+            "start_time": "17:00",
+            "end_time": "22:00",
             "days": [
-                "everyday"
+                "sunday"
             ]
         }
     ]
