@@ -1,109 +1,87 @@
 {
     "commute": {
-        "prep_time_mins": 30.0,
+        "prep_time_mins": 120.0,
         "travel_time_mins": 60.0
     },
     "weekly_schedule": {
         "monday": {
-            "wake_time": "06:00",
-            "sleep_time": "23:59",
+            "wake_time": "05:00",
+            "sleep_time": "23:00",
             "work_start": "08:00",
-            "work_end": "17:00",
+            "work_end": "15:00",
             "free_slots": [
-                "06:00 \u2192 06:30",
-                "18:30 \u2192 23:59"
+                "05:00 \u2192 05:00",
+                "16:30 \u2192 23:00"
             ]
         },
         "tuesday": {
-            "wake_time": "06:00",
-            "sleep_time": "23:59",
+            "wake_time": "05:00",
+            "sleep_time": "23:00",
             "work_start": "08:00",
-            "work_end": "17:00",
+            "work_end": "15:00",
             "free_slots": [
-                "06:00 \u2192 06:30",
-                "18:30 \u2192 23:59"
+                "05:00 \u2192 05:00",
+                "16:30 \u2192 23:00"
             ]
         },
         "wednesday": {
-            "wake_time": "06:00",
-            "sleep_time": "23:59",
+            "wake_time": "05:00",
+            "sleep_time": "23:00",
             "work_start": "08:00",
-            "work_end": "17:00",
+            "work_end": "15:00",
             "free_slots": [
-                "06:00 \u2192 06:30",
-                "18:30 \u2192 23:59"
+                "05:00 \u2192 05:00",
+                "16:30 \u2192 23:00"
             ]
         },
         "thursday": {
-            "wake_time": "06:00",
-            "sleep_time": "23:59",
+            "wake_time": "05:00",
+            "sleep_time": "23:00",
             "work_start": "08:00",
-            "work_end": "17:00",
+            "work_end": "15:00",
             "free_slots": [
-                "06:00 \u2192 06:30",
-                "18:30 \u2192 23:59"
+                "05:00 \u2192 05:00",
+                "16:30 \u2192 23:00"
             ]
         },
         "friday": {
-            "wake_time": "06:00",
-            "sleep_time": "23:59",
+            "wake_time": "05:00",
+            "sleep_time": "23:00",
             "work_start": "08:00",
-            "work_end": "17:00",
+            "work_end": "15:00",
             "free_slots": [
-                "06:00 \u2192 06:30",
-                "18:30 \u2192 23:59"
+                "05:00 \u2192 05:00",
+                "16:30 \u2192 23:00"
             ]
         },
         "saturday": {
-            "wake_time": "11:00",
-            "sleep_time": "23:59",
+            "wake_time": "05:00",
+            "sleep_time": "23:00",
             "free_slots": [
-                "11:00 \u2192 23:59"
+                "05:00 \u2192 23:00"
             ]
         },
         "sunday": {
-            "wake_time": "11:00",
-            "sleep_time": "23:59",
-            "work_start": "17:00",
-            "work_end": "22:00",
+            "wake_time": "05:00",
+            "sleep_time": "23:00",
             "free_slots": [
-                "11:00 \u2192 15:30",
-                "23:30 \u2192 23:59"
+                "05:00 \u2192 23:00"
             ]
         }
     },
     "goals": [
         {
-            "name": "fitness building",
-            "weekly_hours": 14.0,
-            "priority": 1
-        },
-        {
-            "name": "getting a six pack",
-            "weekly_hours": 14.0,
+            "name": "study",
+            "weekly_hours": 5.0,
             "priority": 1
         }
     ],
     "hobbies": [
         {
-            "name": "football",
-            "weekly_hours": 11.0,
-            "flexible": true
-        },
-        {
-            "name": "",
-            "weekly_hours": 0.0,
+            "name": "gym",
+            "weekly_hours": 2.0,
             "flexible": true
         }
     ],
-    "rigid_blocks": [
-        {
-            "name": "football",
-            "start_time": "17:00",
-            "end_time": "22:00",
-            "days": [
-                "sunday"
-            ]
-        }
-    ]
+    "rigid_blocks": []
 }
