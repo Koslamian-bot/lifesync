@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-neo-bg: #09090b;
+  --color-neo-card: #18181b;
+  --color-neo-orange: #f97316;
+  --color-neo-purple: #a855f7;
+}
+
+body {
+  background-color: var(--color-neo-bg);
+  color: white;
+}
